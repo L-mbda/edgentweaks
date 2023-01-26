@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         EdgenTweaks
-// @namespace    https://df.aviance.app/
-// @version      2.0.1
+// @namespace    https://github.com/de-y/edgentweaks
+// @version      2.1.0
 // @description  Adds tweaks to edgenuity
-// @updateURL  https://github.com/de-y/edgentweaks/raw/master/edgentweaks.js
-// @downloadURL  https://github.com/de-y/edgentweaks/raw/master/edgentweaks.js
+// @updateURL  https://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
+// @downloadURL  hthttps://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
 // @author       de-y & Gradyn
 // @match        *://*.core.learn.edgenuity.com/*
 // @match        https://student.edgenuity.com/*
@@ -14,7 +14,7 @@
 // MAJOR REWORK
 
 
-const version_num = '2.0'
+const version_num = '2.1.0'
 var $, jQuery;
 $ = jQuery = window.jQuery;
 
