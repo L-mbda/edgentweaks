@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EdgenTweaks
 // @namespace    https://github.com/de-y/edgentweaks
-// @version      2.1.0
+// @version      1.5.6
 // @description  Adds tweaks to edgenuity
 // @updateURL  https://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
 // @downloadURL  hthttps://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
@@ -11,10 +11,10 @@
 // @grant        none
 // ==/UserScript==
 
-// MAJOR REWORK
+// CURRENTLY DOING MAJOR REWORK
 
 
-const version_num = '2.1.0'
+const version_num = '1.5.6'
 var $, jQuery;
 $ = jQuery = window.jQuery;
 
