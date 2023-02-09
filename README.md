@@ -1,6 +1,6 @@
 # AN IMPORTANT MESSAGE:
 
-As of Feburary 28 of 2023, I have officially decided to stop maintaining this project. This is partly because I am done with using edgenuity. This repository will however be archived, being open to the public; so anyone can build on the code that I have worked on in this project.
+As of February 28 of 2023, I have officially decided to stop maintaining this project. This is partly because I am done with using edgenuity. This repository will however be archived, being open to the public; so anyone can build on the code that I have worked on in this project.
 
 
 
